@@ -125,7 +125,7 @@ google_analytics: "UA-134625825-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: luis_felipe_bueno
+disqus: lfbueno
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
