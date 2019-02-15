@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Olá! 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Meu nome é Luis Felipe Bueno, sou Bacharel em Ciência da Computação pela Universidade Estadual Paulista (UNESP) de Bauru, e trabalho atualmente como Cientista de Dados na empresa Finch Soluções, atuando na área de Processamento de Linguagem Natural para o meio jurídico.
 
-What else do you need?
+Possuo grande interesse pela área de Machine Learning e Data Science, e tenho experiência com várias linguagens como Python, C e Javascript. Prezo muito por boa qualidade de código e documentações bem feitas.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Minha ideia é utilizar este blog para escrever sobre os meus projetos pessoais e assuntos que estou estudando. Com isso, posso treinar minhas habilidades de escrita e contribuir com a comunidade.
