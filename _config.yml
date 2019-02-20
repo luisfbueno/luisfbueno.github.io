@@ -27,8 +27,8 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   CV: 
-    - Portuguese: "curriculum-ptbr"
-    - English: "curriculum-en"
+    - Portuguese: "https://drive.google.com/file/d/1qxDPCSpAdw9bX0ZUTvWwAnmwlJh0c_zq/view?usp=sharing"
+    - English: "https://drive.google.com/file/d/1ZuYOPj49EOcxKoQAtaQgQEINIZCXlkDa/view?usp=sharing"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
